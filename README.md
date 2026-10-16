@@ -7,7 +7,7 @@
 - **University:** National Taiwan Ocean University
 - **Hometown:** Yilan
 - **Email:** wuuuys@gmail.com
-- **GitHub:** [https://github.com/your-account](https://github.com/wuuuys/abmeee)
+- **GitHub:** (https://github.com/wuuuys/abmeee)
 
 ![Personal Photo](image/image_1.jpg)
 
