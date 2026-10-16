@@ -7,7 +7,7 @@
 - **University:** National Taiwan Ocean University
 - **Hometown:** Yilan
 - **Email:** wuuuys@gmail.com
-- **GitHub:** [https://github.com/your-account](https://github.com/your-account)
+- **GitHub:** [https://github.com/your-account](https://github.com/wuuuys/abmeee)
 
 ![Personal Photo](image/image_1.jpg)
 
@@ -46,12 +46,11 @@ Hello everyone, I am Wu Yu-Syuan, a third-year student majoring in Life Sciences
 
 ### Project 1 | My First Python Program
 This was my first Python mini-project completed in class. Through this project, I learned the basics of Python programming, including variables, user input, and displaying output.
-- **GitHub Link:** [https://github.com/your-account/your-project](https://github.com/your-account/your-project)
+- **GitHub Link:** (https://github.com/wuuuys/abmeee)
 
 ### Project 2 | (Fill in by yourself)
 - **Project Content:** Explore basic Python programming and apply what I have learned to a small personal project.
-- **GitHub Link:** ________________________________________________
-
+- **GitHub Link:** (https://github.com/wuuuys/abmeee)
 ---
 
 ## 6. Goals
@@ -66,7 +65,7 @@ This was my first Python mini-project completed in class. Through this project, 
 ## 7. Contact
 
 - **Email:** wuuuys@gmail.com
-- **GitHub:** [https://github.com/your-account](https://github.com/your-account)
+- **GitHub:**(https://github.com/wuuuys/abmeee)
 - **Other public links (optional):** LinkedIn / Personal Portfolio / Social Media
 
 ---
